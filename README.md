@@ -28,8 +28,9 @@
 ---
 
 
+https://github.com/user-attachments/assets/ac7fc1e6-cce4-49e5-9a86-1229488d1e6a
 
-<img width="1672" height="941" alt="ChatGPT Image Apr 24, 2026, 03_49_51 PM" src="https://github.com/user-attachments/assets/5c44191a-05ea-4887-a54f-0ba4841ccf80" />
+
 
 ## :bookmark_tabs: 目录
 
@@ -320,11 +321,12 @@ cd 本质安全智能施工防火系统demo
 
 ## :balance_scale: 声明
 
-> :information_source: 本项目为课程作业演示系统（Demo），所有数据均为模拟数据，仅用于展示系统设计理念和核心功能，不构成实际生产部署方案。
+  ▎ :information_source:
+  ▎ 本项目为课程作业演示系统（Demo），所有数据均为模拟数据，仅用于展示系统设计理念和核心功能，不构成实际生产部署方案。
 
-<br/>
+  ▎ :robot: AI 生成内容说明：本演示系统中的监控图片由 GPT-Image 2.0 生成，演示视频由 豆包（Doubao） 生成，均为 AI
+  ▎ 辅助创作的模拟素材，仅供参考演示使用。
 
----
 
 <div align="center">
 
