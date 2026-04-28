@@ -27,6 +27,10 @@
 
 ---
 
+
+
+<img width="1672" height="941" alt="ChatGPT Image Apr 24, 2026, 03_49_51 PM" src="https://github.com/user-attachments/assets/5c44191a-05ea-4887-a54f-0ba4841ccf80" />
+
 ## :bookmark_tabs: 目录
 
 <details open>
@@ -324,6 +328,6 @@ cd 本质安全智能施工防火系统demo
 
 <div align="center">
 
-**本质安全智能施工防火系统** · 2025
+**本质安全智能施工防火系统** · 2026
 
 </div>
